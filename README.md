@@ -3,6 +3,6 @@ Ionic's Machina CLI is an app that enables users to manage their profiles and in
 the command line. Other functions, hashing and base64 encoding/decoding, are also available.
 
 Help is available by typing `machina`.  See [Machina Developers](http://dev.ionic.com/tools/machina) for more information.
-Machina Developers include command wizards to assist in command formation.
+Machina Developers includes a command-line builder to assist in command formation.
 
 Releases are under the releases tab.  Install instructions are included in the release.
